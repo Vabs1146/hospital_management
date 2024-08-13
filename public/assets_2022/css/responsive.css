@@ -1,0 +1,93 @@
+/*============================= Small MOBILE Devices================================ */
+
+@media(min-width:767px) {}
+
+
+/*============================= MOBILE Devices================================ */
+
+@media(max-width:767px) {
+    .mob-p-lr-0 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .t-info li:last-child {
+        display: none;
+    }
+    .f_social {
+        display: none;
+    }
+    .logo img {
+        width: 118px;
+    }
+    .title h2 {
+        font-size: 24px;
+    }
+    .owl-carousel .owl-next {
+        right: 0px;
+    }
+    .owl-carousel .owl-prev {
+        left: 0px;
+    }
+    .appointmentform {
+        padding: 20px 14px;
+        margin-bottom: 30px;
+    }
+    .call-to5 div {
+        padding-bottom: 20px;
+    }
+    .f_widget,
+    .f_widget.padd-l-60 {
+        margin-bottom: 30px;
+        padding-left: 28px;
+    }
+    .swiper-button-prev {
+        left: 5px;
+    }
+    .swiper-button-next {
+        right: 5px;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+    }
+    .footersocail {
+        display: block;
+        text-align: center;
+    }
+    .footersocail li a {
+        color: #222220;
+        border: 1px solid #fcc32e;
+    }
+    .list-horizontal li {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .title h1 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+}
+
+
+/*============================= Medium Devices, Tablets ================================ */
+
+@media(min-width:768px) and (max-width:991px) {
+    .appointmentform {
+        margin-bottom: 30px;
+    }
+    .call-to5 h1 {
+        margin-bottom: 17px;
+    }
+    .f_widget {
+        margin-bottom: 37px;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+    }
+}
+
+
+/*============================= Medium Devices, Desttop ================================ */
+
+@media(min-width:992px) and (max-width:1199px) {}

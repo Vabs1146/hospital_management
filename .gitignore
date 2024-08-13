@@ -1,0 +1,5 @@
+filestobeuploaded.zip
+filestobeuploaded/
+.env
+public/fundus_images/
+public/uploads/fundus_images/

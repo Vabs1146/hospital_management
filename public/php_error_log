@@ -1,0 +1,1 @@
+[15-Feb-2021 11:08:13 Asia/Kolkata] PHP Fatal error:  Cannot use app\doctor as doctor because the name is already in use in E:\xampp_sept2019\htdocs\hms_doctor\app\Http\Controllers\Bill_detailsController.php on line 27
